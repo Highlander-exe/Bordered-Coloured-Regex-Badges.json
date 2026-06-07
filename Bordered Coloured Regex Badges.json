@@ -493,7 +493,6 @@
       "textColor": "#FFFFFF",
       "type": "filter"
     }
-  ]
 },
  {
       "borderColor": "#00000000",
@@ -789,5 +788,6 @@
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
+      ]
     }
   
