@@ -495,7 +495,7 @@
     }
   ]
 },
-{
+ {
       "borderColor": "#00000000",
       "groupId": "gl",
       "id": "l-en",
@@ -790,5 +790,4 @@
       "textColor": "#FFFFFF",
       "type": "filter"
     }
-  ]
-}
+  
