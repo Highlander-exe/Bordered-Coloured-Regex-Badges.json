@@ -492,10 +492,9 @@
       "tagStyle": "filled and bordered",
       "textColor": "#FFFFFF",
       "type": "filter"
-    }
-},
- {
-      "borderColor": "#00000000",
+    },
+    {
+   "borderColor": "#00000000",
       "groupId": "gl",
       "id": "l-en",
       "imageURL": "https://files.catbox.moe/0q26lp.png",
@@ -788,6 +787,7 @@
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
       "type": "filter"
-      ]
-    }
+       }
+  ]
+}
   
